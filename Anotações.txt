@@ -1,0 +1,14 @@
+Link para download do Git: https://desktop.github.com
+Testando os commits para Git e GitHub.
+
+Comandos úteis para usar no GitBash:
+
+ -> git clone: Para clonar pasta do repositório no GitHub para o computador local
+ -> git status: Verificar status do repositório local.
+ -> git add . : Adicionar modificações do repositório local para sincronizar com o GitHub
+ -> git commit -m : Comando para commitar alterações para subir para o repositório do GitHub (Lembrar de enviar mensagem junto entre aspas)
+ -> git push origin main: "subir" alterações para o repositório on-line
+ 
+# Outros comandos importantes:
+	-> git config --global user.email: adicionar e-mail do repositório de destino
+	-> git config --global user.name: adicionar username do repositório de destino
