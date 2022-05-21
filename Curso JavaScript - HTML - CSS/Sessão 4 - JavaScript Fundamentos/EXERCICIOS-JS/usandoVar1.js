@@ -1,4 +1,4 @@
-{ { { { var sera = 'Será???' } } } }
+{ { { { var sera = 'Amanhã Será???' } } } }
 
 console.log(sera);
 
@@ -7,7 +7,7 @@ function escreveSera() {
 
     var segundoTermo = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
 
-    for (let a = 0; a <= 6; a++) {
+    for (let a = 0; a <= 4; a++) {
         var sera2 = `${segundoTermo[a]} - Feira`;
         console.log(sera2);
         // console.log(segundoTermo);
