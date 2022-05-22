@@ -29,5 +29,5 @@ ReactJS <br>
 ** <strong>git push origin main</strong>
 
 #### Em casos de novas configurações de repositórios para o github
--- <strong>git config --global user.name 'nome de usuário do GitHub'</strong>
+-- <strong>git config --global user.name 'nome de usuário do GitHub'</strong><br>
 -- <strong>git config --global user.email 'e-mail de usuário do GitHub'</strong>
