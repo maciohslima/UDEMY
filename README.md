@@ -14,19 +14,19 @@ ReactJS <br>
 ### Comandos Git Importantes
 
 * Para Clonar pastas do GitHub:
-** <strong>git clone</strong> 'link de referência'
+ <strong>git clone</strong> 'link de referência'
 
 * Para Verificar Status do repositório:
-** <strong>git status</strong>
+ <strong>git status</strong>
 
 * Para Adicionar mudanças ao repositório git:
-** <strong>git add .</strong>
+ <strong>git add .</strong>
 
 * Para comentar alterações para serem adicionadas ao repositório online do GitHub:
-** <strong>git commit -m 'mensagem'</strong>
+ <strong>git commit -m 'mensagem'</strong>
 
 * Para confirmar e escrever as modificações no repositório online:
-** <strong>git push origin main</strong>
+ <strong>git push origin main</strong>
 
 #### Em casos de novas configurações de repositórios para o github
 -- <strong>git config --global user.name 'nome de usuário do GitHub'</strong><br>
