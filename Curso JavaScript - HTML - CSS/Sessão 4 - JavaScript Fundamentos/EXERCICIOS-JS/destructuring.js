@@ -1,5 +1,4 @@
 // novo recurso do EC2015
-
 const pessoa = {
     nome: 'Mácio Lima',
     idade: 33,
