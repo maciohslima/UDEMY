@@ -28,11 +28,17 @@ const loop = setInterval(() => {
         mario.src = 'img/game-over.png';
         mario.style.width = '80px';
         mario.style.marginLeft = '50px';
-
+        
         clouds.style.animation = 'none';
         clouds.style.left = `${cloudsPosition}px`
-
+        
         clearInterval(loop);
+        
+        setTimeout(() => {
+            location.reload(alert('Game Over!!!'));
+        }, 100);
+        
+        // location.reload(alert('Game Over!!!'));
     }
 
 }, 10);
