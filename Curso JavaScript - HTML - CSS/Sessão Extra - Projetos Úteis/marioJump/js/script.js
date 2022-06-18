@@ -33,6 +33,10 @@ const loop = setInterval(() => {
         clouds.style.left = `${cloudsPosition}px`
         
         clearInterval(loop);
+
+        // for(let contador = 0; pipePosition == 0 ; contador++){
+        //     return contador;
+        // }
         
         setTimeout(() => {
             location.reload(alert('Game Over!!!'));
@@ -43,4 +47,13 @@ const loop = setInterval(() => {
 
 }, 10);
 
+// function contagem(){
+//     let contador = 0;
+//     if(pipe.offsetLeft == 0){
+//         contador++;
+//         console.log(contador);
+//     }
+// }
+
 document.addEventListener('keydown', jump);
+// contagem();
