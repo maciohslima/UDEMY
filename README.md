@@ -10,7 +10,7 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
-![VUE](https://img.shields.io/badge/VUE-black?style=flat-square&logo=vuedotjs)
+![VUE](https://img.shields.io/badge/VUE-black?style=for-the-badge&logo=vuedotjs)
 
 ### Comandos Git Importantes
 
