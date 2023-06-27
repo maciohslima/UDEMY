@@ -6,10 +6,10 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 [Curso HTML/CSS3/HTML5](https://www.udemy.com/course/curso-web/)
 
 ### Linguagens que vamos trabalhar nesse repositório
-HTML5 <br>
-CSS3 <br>
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge) <br>
+![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JS) <br>
-ReactJS <br>
+![React](https://img.shields.io/badge/React-green?style=for-the-badge) <br>
 
 ### Comandos Git Importantes
 
