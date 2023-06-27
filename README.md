@@ -8,7 +8,7 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ### Linguagens que vamos trabalhar nesse repositório
 HTML5 <br>
 CSS3 <br>
-JavaScript <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JS) <br>
 ReactJS <br>
 
 ### Comandos Git Importantes
