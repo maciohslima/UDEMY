@@ -8,7 +8,7 @@ function relogio() {
 
     var ano = momentoAtual.getFullYear();
     var mes = momentoAtual.getMonth();
-    var dia = momentoAtual.getDay();
+    var dia = momentoAtual.getDay() + 1;
     var hora = momentoAtual.getHours();
     var min = momentoAtual.getMinutes();
     var sec = momentoAtual.getSeconds();
@@ -57,6 +57,6 @@ function relogio() {
     }
 
     document.getElementById('hora').innerHTML = hora + ":" + min + ":" + sec;
-    // document.getElementById('data').innerHTML = dia + "/" + mestxt + "/" + ano;
+    document.getElementById('data').innerHTML = dia + "/" + mestxt + "/" + ano;
     setTimeout("relogio()", 1000);
 }
