@@ -20,7 +20,17 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp) 
 ![WebPack](https://img.shields.io/badge/WebPack-black?style=for-the-badge&logo=webpack)
 
-### Comandos Git Importantes
+# Curso Python3
+Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dados
+
+## Links úteis
+[Python Docs](https://docs.python.org/pt-br/3/)
+[Curso Python3 com Projetos Reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado)
+
+## Linguagens a se trabalhar nesse curso
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+# Comandos Git Importantes
 
 * Para Clonar pastas do GitHub:
  <strong>git clone</strong> 'link de referência'
