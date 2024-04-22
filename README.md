@@ -2,7 +2,7 @@
 Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens web.
 
 ## Links úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)</br>
 [Curso HTML/CSS3/HTML5](https://www.udemy.com/course/curso-web/)
 
 ### Linguagens que vamos trabalhar nesse repositório
@@ -24,7 +24,7 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dados
 
 ## Links úteis
-[Python Docs](https://docs.python.org/pt-br/3/)
+[Python Docs](https://docs.python.org/pt-br/3/) </br>
 [Curso Python3 com Projetos Reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado)
 
 ## Linguagens a se trabalhar nesse curso
