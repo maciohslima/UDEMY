@@ -28,16 +28,19 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 
 ## Curso Python3
 
-Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dados
+Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dados.
 
 ### Links uteis
 
 [Python Docs](https://docs.python.org/pt-br/3/)</br>
 [Curso Python3 com Projetos Reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado)
 
-## Linguagens a se trabalhar nesse curso
+### Linguagens a se trabalhar nesse curso
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+### Ferramentas
+![PySide6]()
 
 ## Comandos Git Importantes
 
