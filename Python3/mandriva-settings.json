@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "explorer.compactFolders": false,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "MesloLGS NF",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python3 -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+    "git.openRepositoryInParentFolders": "never",
+}
