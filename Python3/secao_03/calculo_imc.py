@@ -8,5 +8,5 @@ imc = int(peso / altura ** 2)
 #     )
 
 print(
-    '{} tem {} de altura, pesa {} quilos e seu IMC é {}'.format(nome, altura, peso, imc)
+    '{} tem {:.2f} metros de altura, pesa {:.2f} quilos e seu IMC é {:.2f}'.format(nome, altura, peso, imc)
 )
