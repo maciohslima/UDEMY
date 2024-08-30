@@ -12,19 +12,29 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ### Linguagens que vamos trabalhar nesse repositório
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-latest-black?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-latest-black?style=for-the-badge&logo=react)
+
+![NodeJS](https://img.shields.io/badge/Nodejs-9.8.1-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
 
 ### FrameWorks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+
 ![JQuery](https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jquery)
+
 ![VUE](https://img.shields.io/badge/VUE-black?style=for-the-badge&logo=vuedotjs)
+
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
 ![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp)
+
 ![WebPack](https://img.shields.io/badge/WebPack-black?style=for-the-badge&logo=webpack)
 
 ## Curso Python3
@@ -38,10 +48,9 @@ Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dad
 
 ### Linguagens a se trabalhar nesse curso
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-latest-black?style=for-the-badge&logo=python&logoColor=yellow)
 
 ### Ferramentas
-![PySide6]()
 
 ## Comandos Git Importantes
 
