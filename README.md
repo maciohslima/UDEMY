@@ -19,23 +19,23 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 
 ![React](https://img.shields.io/badge/React-latest-black?style=for-the-badge&logo=react)
 
-![NodeJS](https://img.shields.io/badge/Nodejs-9.8.1-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![NodeJS](https://img.shields.io/badge/Nodejs-9.8.1-black?style=for-the-badge&logo=nodedotjs)
 
 ### FrameWorks
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-latest-black?style=for-the-badge&logo=bootstrap)
 
-![JQuery](https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jquery)
+![JQuery](https://img.shields.io/badge/JQuery-latest-black?style=for-the-badge&logo=jquery)
 
-![VUE](https://img.shields.io/badge/VUE-black?style=for-the-badge&logo=vuedotjs)
+![VUE](https://img.shields.io/badge/VUE-latest-black?style=for-the-badge&logo=vuedotjs)
 
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-latest-black?style=for-the-badge&logo=angular)
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/Express-latest-black?style=for-the-badge&logo=express)
 
-![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp)
+![Gulp](https://img.shields.io/badge/Gulp-latest-black?style=for-the-badge&logo=gulp)
 
-![WebPack](https://img.shields.io/badge/WebPack-black?style=for-the-badge&logo=webpack)
+![WebPack](https://img.shields.io/badge/WebPack-latest-black?style=for-the-badge&logo=webpack)
 
 ## Curso Python3
 
