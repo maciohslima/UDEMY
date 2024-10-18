@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# Curso de JavaScript/CSS/HTML5 da Udemy
+
+Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens web.
+
+## Links úteis
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
+=======
 # Cursos UDEMY
 
 ## Curso de JavaScript/CSS/HTML5 da Udemy
@@ -7,11 +16,27 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ### Links úteis
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)</br>
+>>>>>>> 0650881e4168d12416728ddbb70b33bd6794bff7
 [Curso HTML/CSS3/HTML5](https://www.udemy.com/course/curso-web/)
 
 ### Linguagens que vamos trabalhar nesse repositório
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+<<<<<<< HEAD
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+### FrameWorks
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jquery)
+![VUE](https://img.shields.io/badge/VUE-black?style=for-the-badge&logo=vuedotjs)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp)
+![WebPack](https://img.shields.io/badge/WebPack-black?style=for-the-badge&logo=webpack)
+=======
 
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
@@ -22,6 +47,7 @@ Curso adquirido no portal da Udemy para aprimorar conhecimentos nas linguagens w
 ![NodeJS](https://img.shields.io/badge/Nodejs-9.8.1-black?style=for-the-badge&logo=nodedotjs)
 
 ### FrameWorks
+>>>>>>> 0650881e4168d12416728ddbb70b33bd6794bff7
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-latest-black?style=for-the-badge&logo=bootstrap)
 
@@ -69,7 +95,14 @@ Curso adquirido no portal da UDEMY para aprender sobre Python3 e análise de dad
 * Para confirmar e escrever as modificações no repositório online:
  **git push origin main**
 
+<<<<<<< HEAD
+#### Em casos de novas configurações de repositórios para o github
+
+-- <strong>git config --global user.name 'nome de usuário do GitHub'</strong><br>
+-- <strong>git config --global user.email 'e-mail de usuário do GitHub'</strong>
+=======
 ## Em casos de novas configurações de repositórios para o github
 
 -- **git config --global user.name 'nome de usuário do GitHub'** </br>
 -- **git config --global user.email 'e-mail de usuário do GitHub'**
+>>>>>>> 0650881e4168d12416728ddbb70b33bd6794bff7
